@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg2287"
+   version="1.1"
+   viewBox="0 0 172.50833 35.401252"
+   height="100%"
+   width="100%">
+  <defs
+     id="defs2281">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient69205">
+      <stop
+         id="stop69203"
+         offset="0"
+         style="stop-color:#d40055;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       y2="221.7737"
+       x2="503.88638"
+       y1="221.7737"
+       x1="168.18343"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2380"
+       xlink:href="#linearGradient69205" />
+    <linearGradient
+       y2="221.7737"
+       x2="503.88638"
+       y1="221.7737"
+       x1="168.18343"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2382"
+       xlink:href="#linearGradient69205" />
+    <linearGradient
+       y2="221.7737"
+       x2="503.88638"
+       y1="221.7737"
+       x1="168.18343"
+       gradientTransform="matrix(0.44553228,0,0,0.44553228,-75.240461,177.30727)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient115"
+       xlink:href="#linearGradient69205" />
+  </defs>
+  <metadata
+     id="metadata2284">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-261.59874)"
+     id="layer1">
+    <text
+       id="text100"
+       y="289.15933"
+       x="-2.3315394"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.74829483px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient115);fill-opacity:1;stroke:none;stroke-width:0.44553226"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:url(#linearGradient115);stroke-width:0.44553226"
+         id="tspan98"
+         y="0"
+         x="164.39948"><tspan
+           id="tspan94"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.74829483px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:url(#linearGradient115);fill-opacity:1;stroke-width:0.44553226"
+           y="289.15933"
+           x="-2.3315394">Diagraphy</tspan><tspan
+           id="tspan96"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.74829483px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:url(#linearGradient115);fill-opacity:1;stroke-width:0.44553226"
+           y="289.15933"
+           x="164.39948">.</tspan></tspan></text>
+  </g>
+</svg>
